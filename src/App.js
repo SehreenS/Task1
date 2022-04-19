@@ -79,7 +79,7 @@ export default function App() {
         <option value="4">4</option>
       </select>
       </div>
-      <div class="d-grid gap-2 col-4 d-md-block">
+      <div class="d-grid gap-2 col-4 d-md-block"> 
   
       <button className='text-left'type="submit" class="btn btn-sm btn-success"onClick={() => totalPrice()}> CONFIRM </button>
       </div>
